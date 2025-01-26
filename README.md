@@ -31,7 +31,7 @@ Juan Cruz Perez</a></h1>
 <br>
 
 [![@perezjuancruz](https://img.icons8.com/fluency/48/000000/linkedin.png "@perezjuancruz")](https://www.linkedin.com/in/perezjuancruz/) 
-[![@perezjuancruzok@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@perezjuancruzok@gmail.com")](perezjuancruzok@gmail.com)
+[![perezjuancruzok@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "perezjuancruzok@gmail.com")](perezjuancruzok@gmail.com)
 
 <br>
 
