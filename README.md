@@ -35,7 +35,9 @@ Juan Cruz Perez</a></h1>
 
 <br>
 
-
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBseHBnc3c2Y3g2Y2lneTRidGU3ZmI1MGUyMm9lbXJlazU4MXQ2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/82okaqGZJqJOrsRiNQ/giphy.gif" alt="Boca Juniors" width="300px">
+</div>
 
 <!-- recursos
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AnushkaWijegoonawardana97.md
