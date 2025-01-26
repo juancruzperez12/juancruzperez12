@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+, I'm <a href="https://github.com/juancruzperez12" target="blank">
+Juan Cruz Perez</a></h1>
 
-<!--
-**juancruzperez12/juancruzperez12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/juancruzperez12"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+Github+page;I+am+a+student+of+Information+Systems;Software+Developer;Hincha+de+Boca+Jrs+%3C3"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,bootstrap,figma,vscode,discord" />
+  </a>
+</p>
+
+
+
+## Connect with me ☕ :
+
+<br>
+
+[![@perezjuancruz](https://img.icons8.com/fluency/48/000000/linkedin.png "@perezjuancruz")](https://www.linkedin.com/in/perezjuancruz/) 
+[![@perezjuancruzok@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@perezjuancruzok@gmail.com")](perezjuancruzok@gmail.com)
+
+<br>
+
+
+
+<!-- recursos
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/AnushkaWijegoonawardana97.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/100rabhcsmc.md
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/1010nishant.md
+
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/CodeWhiteWeb.md
+
 -->
