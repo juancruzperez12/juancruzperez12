@@ -35,7 +35,7 @@ Juan Cruz Perez</a></h1>
 [![@perezjuancruz](https://img.icons8.com/fluency/48/000000/linkedin.png "@perezjuancruz")](https://www.linkedin.com/in/perezjuancruz/) 
 [![perezjuancruzok@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "perezjuancruzok@gmail.com")](perezjuancruzok@gmail.com)
 
-## My portfolio: juancruzperez.com
+## Personal website:
 <a href="http://juancruzperez.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 
 
